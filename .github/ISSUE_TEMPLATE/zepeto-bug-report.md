@@ -7,8 +7,6 @@ assignees: ''
 
 ---
 
-**Label 설정 필수
-
 **제페토 월드 패키지 버전을 알려주세요. (Unity > Window > Package Manager 에서 버전 확인이 가능합니다.)
 예) 1.1.5
 
