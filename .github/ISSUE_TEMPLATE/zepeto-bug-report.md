@@ -2,7 +2,7 @@
 name: ZEPETO BUG REPORT
 about: 오류 및 버그 상황을 템플릿에 맞춰서 올려주세요.
 title: ''
-labels: ''
+labels: bug
 assignees: ''
 
 ---
