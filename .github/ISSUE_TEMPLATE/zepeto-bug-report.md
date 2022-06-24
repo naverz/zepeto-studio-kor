@@ -1,27 +1,28 @@
 ---
 name: ZEPETO BUG REPORT
-about: 오류 및 버그 상황을 템플릿에 맞춰서 올려주세요.
-title: ''
+about: Please upload errors and bug situations according to the template! The team
+  will review.
+title: "[BUG]: describe the issue here"
 labels: bug
 assignees: ''
 
 ---
 
-**제페토 월드 패키지 버전을 알려주세요. (Unity > Window > Package Manager 에서 버전 확인이 가능합니다.)
-예) 1.1.5
+**Please tell us the version of the ZEPETO World package. (You can check the version in Unity > Window > Package Manager.)**
+ex) 1.4.0
 
-**현재 설치되어 있는 제페토 앱 버전을 알려주세요. (제페토앱 > MY > 설정 > 버전 에서 버전 확인이 가능합니다.)
-예) 3.9.8
+**Please tell us which version of the ZEPETO app is currently installed. (You can check the version in ZEPETO App > MY > Settings > Version.)**
+ex) 3.13.6
 
-**어떤 기능을 구현하려고 했나요?
-예) 특정 오브젝트 가까이 가면 상호작용을 하고 싶어요.
+**What features were you trying to implement?**
+Ex) I want to interact with a specific object when I get close to it.
 
-**어떤 문제가 발생 하였나요?
-예) 상호작용 버튼은 어떻게 나타나게 하는지 모르겠어요 
-예) 상호작용 버튼은 나타났는데 기능이 실행되지 않아요
+**What problem did you encounter?**
+Ex) I don't know how to make the interactive button appear
+Ex) The interactive button appears but the function does not work
 
-**개발 환경을 알려주세요.
-예) Window 11, Android 11
-예) M1 MacBook Pro MacOS 12.3, iOS 15.3.1
+**Please tell us your development environment.**
+Ex) Window 11, Android 11
+Ex) M1 MacBook Pro MacOS 12.3, iOS 15.3.1
 
-**구현하신 코드를 첨부해 주세요. 스크린샷이 있다면 첨부해 주세요.
+**Please attach the implemented code. If you have a screenshot, please attach it.**
